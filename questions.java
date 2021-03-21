@@ -1,0 +1,103 @@
+package assignment_2.day1;
+
+public class questions {
+
+	public static void main(String[] args) {
+		
+		// Question-1
+		
+		int count;
+		count = 2021;
+		System.out.println(count);
+		
+		System.out.println();
+	
+		// Question-2
+		
+		String massage;
+		massage = "Alhamdulillah";
+		System.out.println(massage);
+		
+		System.out.println();
+		
+		// Question-3
+		
+		int num;
+		double cost;
+		num=55;
+		cost=77;
+		System.out.println(num + " " + cost);
+		
+		System.out.println();
+		
+		// Question-4
+		
+		String value;
+		value="initialize";
+		System.out.println("Today's Word-Of-The-Day is: " +value);
+		
+		System.out.println();
+		
+		// Question-5
+		int first, second;
+		first=10;
+		second=45;
+		System.out.println("first is " + first + ", second = "+ second);
+		
+		System.out.println();
+		
+		// Question-6
+		String f1,f2,f3,f4,f5;
+		f1="Cihat";
+		f2="Ozzy";
+		f3="Muhtar";
+		f4="Asia";
+		f5="Mike";
+		System.out.println(f1+", "+f2+", "+f3+", "+f4+", "+f5);
+		
+		System.out.println();
+		
+		// Question-7
+		int i;
+		double f;
+		i=22;
+		f=33.8;
+		System.out.println("i="+i+" f="+f);
+		System.out.println();
+		
+		// Question-8
+		String lng1, lng2;
+		lng1="Python";
+		lng2="C++";
+		System.out.println("I will learn \""+lng1+ "\" and \"" + lng2+"\" at CybertecSchool.");
+		System.out.println();
+		
+		// Question-9
+		byte steps;
+		short miles;
+		int count1;
+		long population;
+		steps = 100;
+		miles=5_000;
+		count=1_000_000;
+		population=3_434_455_667L;
+		
+		
+		System.out.println();
+		
+		// Question-10
+		int hour, minute, second1;
+		String amOrPm;
+		
+		hour=12;
+		minute=24;
+		second1=33;
+		amOrPm="AM";
+		
+	System.out.println(hour + ":" + minute + ":" + second1 + " " + amOrPm);
+	System.out.println();
+		System.out.println("Thank You !");
+
+	}
+
+}
